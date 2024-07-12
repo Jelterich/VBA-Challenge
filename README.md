@@ -16,3 +16,7 @@ This project was developed with the help of the following resources:
 - [Microsoft Learn](https://learn.microsoft.com/en-us/office/vba/api/overview/excel)
 - ChatGPT, an AI language model developed by OpenAI
 - Mo Class (TA)
+-(Youtube vba clases) https://www.youtube.com/watch?v=G05TrN7nt6k&list=PLoyECfvEFOjYYy54Wa9E83xycKilVMoHp
+-https://www.mrexcel.com/board/threads/vba-dim-lastrow-as-long-vs-dim-nth.844334/
+-https://corporatefinanceinstitute.com/resources/excel/vba-variables-dim/
+-https://www.mrexcel.com/board/threads/dim-as-double.77460/
